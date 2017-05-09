@@ -2,12 +2,13 @@
 A collection of open source production apps built with react.
 
 Criteria:
-* Production 
+* Production
 * NOT clone
 * NOT example
 
 ---
 ### React
+* [Calypso](https://github.com/Automattic/wp-calypso)
 * [Mattermost](https://github.com/mattermost/platform)
 * [Reddit Mobile](https://github.com/reddit/reddit-mobile)
 * [Serverless Website](https://github.com/serverless/site)
